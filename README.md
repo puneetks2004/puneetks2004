@@ -8,9 +8,9 @@
 ---
 
 ### 👨‍💻 About Me
-- 🎓 I'm a BTech CSE student, batch of 2026
+- 🎓 I'm a BTech CSE student, batch of 2022-2026
 - 🌱 Currently learning **React**, **Tailwind CSS**, and sharpening my **DSA** skills
-- 🧠 Regularly practicing on LeetCode and Pepcoding
+- 🧠 Regularly practicing on LeetCode.
 - ⚡ Fun fact: I believe in *“Code. Debug. Repeat.”*
 
 ---
