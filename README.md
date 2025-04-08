@@ -8,7 +8,8 @@
 ---
 
 ### 👨‍💻 About Me
-- 🎓 I'm a BTech CSE student, batch of 2022-2026
+- 🎓 I'm a BTech CSE student, batch of 2022-2026, at **Amity University Chhattisgarh**
+- 📊 Current **CGPA: 9.1**
 - 🌱 Currently learning **React**, **Tailwind CSS**, and sharpening my **DSA** skills
 - 🧠 Regularly practicing on LeetCode.
 - ⚡ Fun fact: I believe in *“Code. Debug. Repeat.”*
@@ -22,7 +23,7 @@
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
   <img src="https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" />
 </p>
 
 ---
