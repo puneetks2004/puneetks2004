@@ -46,6 +46,17 @@ Appwrite
 
 ---
 
+### 🎓 Online Courses & Certifications
+
+- **Become a Certified Web Developer: HTML, CSS and JavaScript** — Udemy, Dec 2023 
+- **SQL (Basic) Certificate** — HackerRank, Aug 2024 
+- **Effective Business Communication** — IIMB via Swayam, Jun 2024 
+- **ChatGPT Prompt Engineering for Developers** — DeepLearning.AI, Aug 2024 
+- **Internal Smart India Hackathon Winner** — Oct 2023
+- **AI Tool Workshop** — be10X
+
+---
+
 ### 📌 Featured Projects
 
 Here are a few things I've built:
