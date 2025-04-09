@@ -46,8 +46,6 @@ Appwrite
 
 ---
 
----
-
 ### 💼 Experience
 
 #### 💻 Web Development Intern  
@@ -57,7 +55,8 @@ Appwrite
 - Completed a 6-week internship focused on **building modern web applications using the MERN stack**.
 - Learned and applied full-stack development practices including MongoDB, Express.js, React.js, and Node.js.
 
-#### 🌐 Frontend Web Developer Intern  
+
+#### 💻 Frontend Web Developer Intern  
 **WaysAheadGlobal**  
 📍 *Remote | Jun 2024 – Jul 2024 (1 months)*
 
@@ -73,8 +72,6 @@ Appwrite
 - **SQL (Basic) Certificate** — HackerRank, Aug 2024 
 - **Effective Business Communication** — IIMB via Swayam, Jun 2024 
 - **ChatGPT Prompt Engineering for Developers** — DeepLearning.AI, Aug 2024 
-- **Internal Smart India Hackathon Winner** — Oct 2023
-- **AI Tool Workshop** — be10X
 
 ---
 
