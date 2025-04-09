@@ -53,7 +53,7 @@ Appwrite
 📍 *Remote | Feb 2025 – Mar 2025 (1.5 months)*
 
 - Completed a 6-week internship focused on **building modern web applications using the MERN stack**.
-- Learned and applied full-stack development practices including MongoDB, Express.js, React.js, and Node.js.<br>
+- Learned and applied full-stack development practices including MongoDB, Express.js, React.js, and Node.js.<br><br>
 
 
 #### 💻 Frontend Web Developer Intern  
