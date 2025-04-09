@@ -36,12 +36,21 @@
 
 ---
 
-###🛠️ Areas of Expertise
-Languages: JavaScript, C, Java, TypeScript
-Frameworks & Libraries: React.js, GraphQL, Redux, Tailwind CSS, Express.js
-Backend & Database: Node.js, MySQL, MongoDB
-Platforms & Tools: Git, GitHub, VS Code
-Emerging Tech: Data-Science, Prompt Engineering
+---
+
+### 🛠️ Areas of Expertise
+
+**Languages:**  
+JavaScript, C, Java, TypeScript
+**Frameworks & Libraries:**  
+React.js, GraphQL, Redux, Tailwind CSS, Express.js
+**Backend & Database:**  
+Node.js, MySQL, MongoDB
+**Platforms & Tools:**  
+Git, GitHub, VS Code
+**Emerging Tech:**  
+Data Science, Prompt Engineering
+
 
 ### 📌 Featured Projects
 
