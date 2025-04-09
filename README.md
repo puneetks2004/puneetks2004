@@ -46,6 +46,27 @@ Appwrite
 
 ---
 
+---
+
+### 💼 Experience
+
+#### 💻 Web Development Intern  
+**EY Global Delivery Services & AICTE — Next Gen Employability Program**  
+📍 *Remote | Feb 2025 – Mar 2025 (1.5 months)*
+
+- Completed a 6-week internship focused on **building modern web applications using the MERN stack**.
+- Learned and applied full-stack development practices including MongoDB, Express.js, React.js, and Node.js.
+
+#### 🌐 Frontend Web Developer Intern  
+**WaysAheadGlobal**  
+📍 *Remote | Jun 2024 – Jul 2024 (1 months)*
+
+- Developed multiple frontend components using **HTML5, CSS, and JavaScript**.
+- Gained experience in **API integration**, project documentation, and quality control processes.
+- Practiced effective communication and project management while aligning with team goals.
+
+---
+
 ### 🎓 Online Courses & Certifications
 
 - **Become a Certified Web Developer: HTML, CSS and JavaScript** — Udemy, Dec 2023 
