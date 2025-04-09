@@ -10,7 +10,7 @@
 ### 👨‍💻 About Me
 - 🎓 I'm a BTech CSE student, batch of 2022-2026, at **Amity University Chhattisgarh**
 - 📊 Current **CGPA: 9.1**
-- 🌱 Currently learning **React**, **Tailwind CSS**, and sharpening my **DSA** skills
+- 🌱 Currently sharpening my **DSA** and  **Web-Development** skills
 - 🧠 Regularly practicing on LeetCode.
 - ⚡ Fun fact: I believe in *“Code. Debug. Repeat.”*
 
@@ -40,6 +40,9 @@ Git, GitHub, VS Code
 
 **Emerging Tech:**  
 Data Science, Prompt Engineering
+
+**BaaS (Backend as a Service):**  
+Appwrite
 
 ---
 
