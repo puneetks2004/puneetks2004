@@ -68,8 +68,8 @@
 
 Here are a few things I've built:
 
-- 🎯 [Currency Converter using React](https://github.com/puneetks2004/javascript_projects/tree/main/project_1)
-- 📱 [Simple JavaScript Games and Utilities](https://github.com/puneetks2004/javascript_projects)
+- 🎯 [NwesHub](https://github.com/puneetks2004/React_Development_Projects/tree/main/news-web)
+- 📱 [WeatherApp](https://github.com/puneetks2004/React_Development_Projects/tree/main/Weather_App)
 - 🧪 More projects coming soon – stay tuned!
 
 ---
