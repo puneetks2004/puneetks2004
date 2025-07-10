@@ -68,8 +68,8 @@
 
 Here are a few things I've built:
 
-- 🎯 [NwesHub](https://github.com/puneetks2004/React_Development_Projects/tree/main/news-web)
-- 📱 [WeatherApp](https://github.com/puneetks2004/React_Development_Projects/tree/main/Weather_App)
+- 🎯 [NewsHub](https://github.com/puneetks2004/React_Development_Projects/tree/main/news-web)
+- 📱 [Weather App](https://github.com/puneetks2004/React_Development_Projects/tree/main/Weather_App)
 - 🧪 More projects coming soon – stay tuned!
 
 ---
