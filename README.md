@@ -7,7 +7,7 @@
 <h3 align="center">🚀 A passionate Web Developer & DSA enthusiast | BTech CSE Student</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Welcome+to+my+GitHub!;I+build+web+projects+🚀;I+love+solving+DSA+problems+📚;Let's+connect+and+collaborate!" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Welcome+to+my+GitHub!;I+build+web+projects+🚀;I+love+solving+DSA+problems+📚;Let's+connect+and+collaborate!">
 </p>
 
 ---
@@ -24,37 +24,8 @@
 ## 🛠️ Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=js" width="40"/> <br> JavaScript
-  <br><br>
-  <img src="https://skillicons.dev/icons?i=typescript" width="40"/> <br> TypeScript
-  <br><br>
-  <img src="https://skillicons.dev/icons?i=java" width="40"/> <br> Java
-  <br><br>
-  <img src="https://skillicons.dev/icons?i=c" width="40"/> <br> C
-  <br><br>
-  <img src="https://skillicons.dev/icons?i=react" width="40"/> <br> React.js
-  <br><br>
-  <img src="https://skillicons.dev/icons?i=redux" width="40"/> <br> Redux
-  <br><br>
-  <img src="https://skillicons.dev/icons?i=nodejs" width="40"/> <br> Node.js
-  <br><br>
-  <img src="https://skillicons.dev/icons?i=express" width="40"/> <br> Express.js
-  <br><br>
-  <img src="https://skillicons.dev/icons?i=mongodb" width="40"/> <br> MongoDB
-  <br><br>
-  <img src="https://skillicons.dev/icons?i=mysql" width="40"/> <br> MySQL
-  <br><br>
-  <img src="https://skillicons.dev/icons?i=graphql" width="40"/> <br> GraphQL
-  <br><br>
-  <img src="https://skillicons.dev/icons?i=tailwind" width="40"/> <br> Tailwind CSS
-  <br><br>
-  <img src="https://skillicons.dev/icons?i=html,css" width="40"/> <br> HTML5 & CSS3
-  <br><br>
-  <img src="https://skillicons.dev/icons?i=git,github" width="40"/> <br> Git & GitHub
-  <br><br>
-  <img src="https://skillicons.dev/icons?i=vscode" width="40"/> <br> VS Code
-  <br><br>
-  <img src="https://skillicons.dev/icons?i=appwrite" width="40"/> <br> Appwrite
+  <img src="https://skillicons.dev/icons?i=js,typescript,java,c,react,redux,nodejs,express,mongodb,mysql,graphql,tailwind,html,css" /><br>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,appwrite" />
 </p>
 
 ---
@@ -62,8 +33,8 @@
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=puneetks2004&show_icons=true&theme=radical" width="48%" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=puneetks2004&layout=compact&theme=radical" width="40%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=puneetks2004&show_icons=true&theme=radical" width="48%" />
 </p>
 
 ---
@@ -124,5 +95,5 @@
 ---
 
 <p align="center">
-  ✨ “Stay curious, keep learning, and never stop building!” ✨
+  🚀 “Stay curious, keep learning, and never stop building!”
 </p>
