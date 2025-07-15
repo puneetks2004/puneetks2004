@@ -21,12 +21,14 @@
 
 ---
 
-## 🛠️ Tech Stack
+🛠️ **Areas of Expertise**
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=js,typescript,java,c,react,redux,nodejs,express,mongodb,mysql,graphql,tailwind,html,css" /><br>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,appwrite" />
-</p>
+**Languages:-**  &nbsp; JavaScript, C, Java, TypeScript  
+**Frameworks & Libraries:-** &nbsp;  React.js, GraphQL, Redux, Tailwind CSS, Express.js  
+**Backend & Database:-**  &nbsp; Node.js, MySQL, MongoDB  
+**Platforms & Tools:-**  &nbsp; Git, GitHub, VS Code  
+**Emerging Tech:-**  &nbsp; Data Science, Prompt Engineering  
+**BaaS (Backend as a Service):-** &nbsp; Appwrite
 
 ---
 
