@@ -67,7 +67,9 @@
 - 📊 **SQL (Basic) Certificate** — *HackerRank*, Aug 2024
 - 💡 **Effective Business Communication** — *IIMB via Swayam*, Jun 2024
 - 🤖 **ChatGPT Prompt Engineering for Developers** — *DeepLearning.AI*, Aug 2024
-
+- 🏅 **Data Analytics: ** — *Accenture via Forage*, Jan 2025
+- 🏅 **Data VisualiZation: ** — *TCS via Forage*, Feb 2025
+    
 ---
 
 ## 🌟 Featured Projects
